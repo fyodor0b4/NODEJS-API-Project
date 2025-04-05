@@ -1,4 +1,4 @@
-# NODE-API Project
+# NODEJS-API Project
 API Project with Node.js
 
 
